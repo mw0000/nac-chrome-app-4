@@ -21,4 +21,6 @@ img {
 
 p a {
     color: #fff;
+    text-decoration: none;
+    font-weight: bold;
 }

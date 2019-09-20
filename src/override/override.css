@@ -18,3 +18,7 @@ body, .container-fluid {
 img {
     width: 200px;
 }
+
+p a {
+    color: #fff;
+}
